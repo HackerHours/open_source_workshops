@@ -105,7 +105,7 @@ http://www.meetup.com/hackerhours/events/230225164/
 * [Exercism](http://exercism.io/)
   * mentor: Katrina Owen will be available in Slack
   * http://www.sitepoint.com/exorcise-your-newbie-demons-by-contributing-to-exercism/
-  * https://github.com/search?utf8=%E2%9C%93&q=org%3Aexercism&type=Issues&ref=searchresults
+  * https://github.com/exercism/xruby
 * Danger (a pull request bot)
   * Owner: Orta
   * https://github.com/danger/danger/issues
@@ -165,6 +165,8 @@ Add your links to this list! Send pull requests to this file please. :)
 - [ ] Aidan: reach out to govt open source list
 - [ ] Prepare at least 5 concrete actionable issues
 - [x] Order pizzas
+  - Suprema: (212) 594-8939. Order number-of-participants/5 pizzas.
+  - For thoughtbot, 1384 Broadway 20th Floor
 - [ ] Make sure we have what’s needed in the office
    - [ ] Markers
    - [x] Power strips (tape them to the floor)
