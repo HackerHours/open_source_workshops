@@ -96,15 +96,16 @@ http://www.meetup.com/hackerhours/events/230225164/
 * [18F](https://18f.gsa.gov/) (team that builds open source in and for the Federal Government)
   * mentor: Aidan Feldman
   * https://github.com/search?l=Ruby&q=org%3A18f++label%3A%22help+wanted%22+&state=open&type=Issues
-* [thoughtbot](https://github.com/thoughtbot)
+* [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
   * mentor: Tute Costa
-  * https://github.com/search?l=Ruby&q=org%3Athoughtbot++label%3A%22help+wanted%22+&state=open&type=Issues
-  * Paperclip
-    * https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs
-    * https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+  * https://github.com/thoughtbot/suspenders/labels/help%20wanted
+* [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip)
+  * mentor: Tute Costa
+  * https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs
+  * https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 * [doorkeeper](https://github.com/doorkeeper-gem)
   * mentor: Tute Costa
-  * https://github.com/search?utf8=%E2%9C%93&q=org%3Adoorkeeper-gem+label%3A%22help+wanted%22+&type=Issues&ref=searchresults
+  * https://github.com/doorkeeper-gem/doorkeeper/labels/help%20wanted
 * [Exercism](http://exercism.io/) (download and solve practice problems in different languages)
   * mentor: Katrina Owen available on Slack
   * http://www.sitepoint.com/exorcise-your-newbie-demons-by-contributing-to-exercism/
@@ -115,6 +116,9 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 ### Other projects (mentors didn't confirm availability)
 
+* [thoughtbot/administrate](https://github.com/thoughtbot/administrate)
+  * mentor: Grayson?
+  * https://github.com/thoughtbot/administrate/issues
 * Danger (a pull request bot)
   * Owner: Orta
   * https://github.com/danger/danger/issues
