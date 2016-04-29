@@ -6,7 +6,7 @@
 
 ---
 
-## Satruday, April 30 event
+## Saturday, April 30 event
 
 http://www.meetup.com/hackerhours/events/230225164/
 
@@ -20,6 +20,7 @@ http://www.meetup.com/hackerhours/events/230225164/
   - [What can we contribute?](#what-can-we-contribute)
   - [Keep in mind](#keep-in-mind)
 - [Projects to work on](#projects-to-work-on)
+  - [Other projects (mentors didn't confirm availability)](#other-projects-mentors-didnt-confirm-availability)
 - [Setup](#setup)
   - [Install Ruby](#install-ruby)
   - [Learning Git/GitHub](#learning-gitgithub)
@@ -93,28 +94,32 @@ http://www.meetup.com/hackerhours/events/230225164/
 ## Projects to work on
 
 * [18F](https://18f.gsa.gov/) (team that builds open source in and for the Federal Government)
-  * mentor: Aidan
+  * mentor: Aidan Feldman
   * https://github.com/search?l=Ruby&q=org%3A18f++label%3A%22help+wanted%22+&state=open&type=Issues
 * [thoughtbot](https://github.com/thoughtbot)
-  * mentor: Tute
+  * mentor: Tute Costa
   * https://github.com/search?l=Ruby&q=org%3Athoughtbot++label%3A%22help+wanted%22+&state=open&type=Issues
-  * [Paperclip](https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+  * Paperclip
+    * https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs
+    * https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 * [doorkeeper](https://github.com/doorkeeper-gem)
-  * mentor: Tute
+  * mentor: Tute Costa
   * https://github.com/search?utf8=%E2%9C%93&q=org%3Adoorkeeper-gem+label%3A%22help+wanted%22+&type=Issues&ref=searchresults
-* [Exercism](http://exercism.io/)
-  * mentor: Katrina Owen will be available in Slack
+* [Exercism](http://exercism.io/) (download and solve practice problems in different languages)
+  * mentor: Katrina Owen available on Slack
   * http://www.sitepoint.com/exorcise-your-newbie-demons-by-contributing-to-exercism/
   * https://github.com/exercism/xruby
+* [if-me](http://www.if-me.org/) (mental health support community to improve communication between loved ones)
+  * mentor: Julia Nguyen available on Slack
+  * https://github.com/julianguyen/ifme/issues
+
+### Other projects (mentors didn't confirm availability)
+
 * Danger (a pull request bot)
   * Owner: Orta
   * https://github.com/danger/danger/issues
-* [if-me](http://www.if-me.org/)
-  * Mental health support community to improve communication between loved ones
-  * https://github.com/julianguyen/ifme
-  * Contact join.ifme@gmail.com if you are interested in contributing (looking for developers, designers, mental health activists/workers of all experience types to help) – she’s available on Slack at @julianguyen
 * sparkle (easy way to generate sparkline graphs)
-  * mentor: Aidan
+  * mentor: Aidan?
   * https://github.com/afeld/sparkle/issues
 * [Ruby 2D](https://github.com/ruby2d/ruby2d) 🎮 Make cross-platform 2D applications in Ruby, like games! 👾
   * Here's the gem's repo, along with a list of issues/features. This project was also accepted for this year's Rails Girls Summer of Code, more details about the project in the link.
