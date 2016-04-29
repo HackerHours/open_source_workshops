@@ -166,17 +166,10 @@ Add your links to this list! Send pull requests to this file please. :)
    - [x] Ruby Project Night
    - [x] thoughtbot twitter
    - [ ] diversity orgs from EmpireNode list
-- [ ] Solicit mentors
+- [x] Solicit mentors
 - [ ] Aidan: reach out to govt open source list
 - [ ] Prepare at least 5 concrete actionable issues
 - [x] Order pizzas
   - Suprema: (212) 594-8939. Order number-of-participants/5 pizzas.
   - For thoughtbot, 1384 Broadway 20th Floor
-- [ ] Make sure we have what’s needed in the office
-   - [ ] Markers
-   - [x] Power strips (tape them to the floor)
-   - [ ] Name tags
-   - [x] Enough snacks, fruit, drinks, coffee, tea
-- [ ] Bring stickers
-   - [ ] 18F
-   - [x] thoughtbot
+- [x] Make sure we have what’s needed in the office (name tags, power strips, snacks, fruits, beverages)
