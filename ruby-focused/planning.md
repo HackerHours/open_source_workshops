@@ -35,3 +35,9 @@
   * mentor: Tom Black (on Slack and Twitter as @blacktm)
   * https://github.com/ruby2d/ruby2d/issues
   * http://www.ruby2d.com/learn/basics/
+
+## Random notes
+
+* GitHub workshop
+   * For people that have not used GitHub before, or people that have only used GitHub to file issues. It's aimed at non-technical people, and you can ask any question you have.
+   * Install [GitHub Desktop](https://desktop.github.com/)

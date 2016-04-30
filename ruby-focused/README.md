@@ -19,13 +19,10 @@ http://www.meetup.com/hackerhours/events/230225164/
   - [What can we contribute?](#what-can-we-contribute)
   - [Keep in mind](#keep-in-mind)
 - [Projects to work on](#projects-to-work-on)
-  - [Other projects (mentors didn't confirm availability)](#other-projects-mentors-didnt-confirm-availability)
 - [Setup](#setup)
   - [Install Ruby](#install-ruby)
   - [Learning Git/GitHub](#learning-gitgithub)
 - [Contributions](#contributions)
-- [Internal planning stuff](#internal-planning-stuff)
-  - [To do](#to-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -39,20 +36,20 @@ http://www.meetup.com/hackerhours/events/230225164/
 ## Agenda
 
 * Fill out name tags
-* Standup: we present ourselves other in two sentences
-* Raise hands if you expect to make your first open source contribution
+* Introduce yourself in two sentences
+* Raise hands if:
+    * you have never made an open source contribution
+    * you are new to Git/GitHub
+    * you consider yourself comfortable with Git, GitHub, and Ruby
 * Structure
-   * GitHub workshop
-      * For people that have not used GitHub before, or people that have only used GitHub to file issues. It's aimed at non-technical people, and you can ask any question you have.
-      * Install [GitHub Desktop](https://desktop.github.com/)
-   * Everyone else, pick a project, and sit at that table
-      * set up the project in your computer
-      * pick an issue to work on (or ask which one to pick)
-      * send a pull request
-         * go over contribution guidelines
-         * improve the documentation, even in a small way
-         * if you have time, work on a feature or bug
-      * add a link to this document with your contributions (new issues count!)
+    * Pick a project, and sit at that table
+    * set up the project in your computer
+    * pick an issue to work on (or ask which one to pick)
+    * send a pull request
+        * go over contribution guidelines
+        * improve the documentation, even in a small way
+        * if you have time, work on a feature or bug
+    * add a link to this document with your contributions (new issues count!)
 * Getting help:
    * [Join the chat](http://chat.hackerhours.org/) (`#workshop` channel)
       * feel free to make other channels specific to the project
@@ -94,11 +91,12 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 * [18F](https://18f.gsa.gov/) (team that builds open source in and for the Federal Government)
   * mentor: Aidan Feldman
+  * [Dolores Landingham (onboarding) bot](https://github.com/18F/dolores-landingham-bot)
   * [more](https://github.com/search?l=Ruby&q=org%3A18f++label%3A%22help+wanted%22+&state=open&type=Issues)
-* [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
+* [suspenders](https://github.com/thoughtbot/suspenders)
   * mentor: Tute Costa
   * [issues](https://github.com/thoughtbot/suspenders/labels/help%20wanted)
-* [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip)
+* [paperclip](https://github.com/thoughtbot/paperclip)
   * mentor: Tute Costa
   * [`help-wanted` issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs)
   * [documentation issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
@@ -112,6 +110,10 @@ http://www.meetup.com/hackerhours/events/230225164/
 * [if-me](http://www.if-me.org/) (mental health support community to improve communication between loved ones)
   * mentor: Julia Nguyen available on Slack
   * [issues](https://github.com/julianguyen/ifme/issues)
+* [mustachify.me](https://mustachify.me/)
+  * mentor: Aidan Feldman
+  * good for a couple people who want a challenge
+  * [_the_ issue](https://github.com/afeld/mustachio/issues/48)
 
 ## Setup
 
