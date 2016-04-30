@@ -99,6 +99,7 @@ http://www.meetup.com/hackerhours/events/230225164/
 * [Dolores Landingham bot](https://github.com/18F/dolores-landingham-bot)
     * mentor: Aidan Feldman
     * used for onboarding at [18F](https://18f.gsa.gov/), a team in the federal government
+    * [`#18f` channel](https://hackerhours.slack.com/messages/18f/)
     * [issues](https://github.com/18F/dolores-landingham-bot/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 * [suspenders](https://github.com/thoughtbot/suspenders)
   * mentor: Tute Costa
@@ -112,13 +113,16 @@ http://www.meetup.com/hackerhours/events/230225164/
   * [issues](https://github.com/doorkeeper-gem/doorkeeper/labels/help%20wanted)
 * [Exercism](http://exercism.io/) (download and solve practice problems in different languages)
   * mentor: Katrina Owen available on Slack
+  * [`#exercism` channel](https://hackerhours.slack.com/messages/exercism/)
   * http://www.sitepoint.com/exorcise-your-newbie-demons-by-contributing-to-exercism/
   * https://github.com/exercism/xruby
 * [if-me](http://www.if-me.org/) (mental health support community to improve communication between loved ones)
   * mentor: Julia Nguyen available on Slack
+  * [`#ifme` channel](https://hackerhours.slack.com/messages/ifme/)
   * [issues](https://github.com/julianguyen/ifme/issues)
 * [mustachify.me](https://mustachify.me/)
   * mentor: Aidan Feldman
+  * [`#mustachifyme` channel](https://hackerhours.slack.com/messages/mustachifyme/)
   * good for a couple people who want a challenge
   * [_the_ issue](https://github.com/afeld/mustachio/issues/48)
 * [compare_by](https://github.com/afeld/compare_by)
