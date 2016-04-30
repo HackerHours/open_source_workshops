@@ -103,9 +103,11 @@ http://www.meetup.com/hackerhours/events/230225164/
     * [issues](https://github.com/18F/dolores-landingham-bot/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 * [suspenders](https://github.com/thoughtbot/suspenders)
   * mentor: Tute Costa
+  * [`#paperclip_suspenders` channel](https://hackerhours.slack.com/messages/paperclip_suspenders/)
   * [issues](https://github.com/thoughtbot/suspenders/labels/help%20wanted)
 * [paperclip](https://github.com/thoughtbot/paperclip)
   * mentor: Tute Costa
+  * [`#paperclip_suspenders` channel](https://hackerhours.slack.com/messages/paperclip_suspenders/)
   * [`help-wanted` issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs)
   * [documentation issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 * [doorkeeper](https://github.com/doorkeeper-gem)
