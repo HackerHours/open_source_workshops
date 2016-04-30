@@ -35,33 +35,40 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 ## Agenda
 
-* Fill out name tags
-* Introduce yourself in two sentences
-* Raise hands if:
+1. Fill out name tags
+1. Introduce yourself in two sentences
+1. Raise hands if:
     * you have never made an open source contribution
     * you are new to Git/GitHub
     * you consider yourself comfortable with Git, GitHub, and Ruby
-* Structure
-    * Pick a project, and sit at that table
-    * set up the project in your computer
-    * pick an issue to work on (or ask which one to pick)
-    * send a pull request
-        * go over contribution guidelines
-        * improve the documentation, even in a small way
-        * if you have time, work on a feature or bug
-    * add a link to this document with your contributions (new issues count!)
-* Getting help:
+1. Structure
+    1. Pick a project, and sit at that table
+    1. set up the project in your computer
+    1. pick an issue to work on (or ask which one to pick)
+    1. send a pull request
+        1. go over contribution guidelines
+        1. improve the documentation, even in a small way
+        1. if you have time, work on a feature or bug
+    1. add a link to this document with your contributions (new issues count!)
+    1. At 2:30 pm, standup. We present what we worked on, mention difficulties we found, and what went well (~30 secs each).
+1. Introduce [projects](#projects-to-work-on)
+1. Go over [guidelines](#guidelines)
+1. Getting help
    * [Join the chat](http://chat.hackerhours.org/) (`#workshop` channel)
       * feel free to make other channels specific to the project
    * We will have mentors at the tables
    * Talk to people!
-* [Code of conduct](http://hackerhours.org/policies.html)
-* Thanks
+1. [Code of conduct](http://hackerhours.org/policies.html)
+1. Thanks
    * Mentors
    * thoughtbot (space, food, coffee)
-* Take pictures, post to meetup page and/or tweet @hackerhours
-* At 2:30 pm, standup. We present what we worked on, mention difficulties we found, and what went well (~30 secs each).
-* We’ll do more of these workshops, and meanwhile, come to [Hacker Hours](www.meetup.com/hackerhours) and [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
+1. Take pictures, post to [meetup page](http://www.meetup.com/hackerhours/events/230225164/) and/or tweet @hackerhours
+
+### Wrap-up
+
+* Standup
+* Thanks
+* We'll do more of these workshops, and meanwhile, come to [Hacker Hours](www.meetup.com/hackerhours) and [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
 
 ## Guidelines
 
@@ -89,10 +96,10 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 ## Projects to work on
 
-* [18F](https://18f.gsa.gov/) (team that builds open source in and for the Federal Government)
-  * mentor: Aidan Feldman
-  * [Dolores Landingham (onboarding) bot](https://github.com/18F/dolores-landingham-bot)
-  * [more](https://github.com/search?l=Ruby&q=org%3A18f++label%3A%22help+wanted%22+&state=open&type=Issues)
+* [Dolores Landingham bot](https://github.com/18F/dolores-landingham-bot)
+    * mentor: Aidan Feldman
+    * used for onboarding at [18F](https://18f.gsa.gov/), a team in the federal government
+    * [issues](https://github.com/18F/dolores-landingham-bot/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 * [suspenders](https://github.com/thoughtbot/suspenders)
   * mentor: Tute Costa
   * [issues](https://github.com/thoughtbot/suspenders/labels/help%20wanted)
@@ -114,6 +121,8 @@ http://www.meetup.com/hackerhours/events/230225164/
   * mentor: Aidan Feldman
   * good for a couple people who want a challenge
   * [_the_ issue](https://github.com/afeld/mustachio/issues/48)
+* [compare_by](https://github.com/afeld/compare_by)
+    * mentor: Aidan Feldman
 
 ## Setup
 

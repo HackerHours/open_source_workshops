@@ -35,6 +35,7 @@
   * mentor: Tom Black (on Slack and Twitter as @blacktm)
   * https://github.com/ruby2d/ruby2d/issues
   * http://www.ruby2d.com/learn/basics/
+* [more 18F issues](https://github.com/search?l=Ruby&q=org%3A18f++label%3A%22help+wanted%22+&state=open&type=Issues)
 
 ## Random notes
 
