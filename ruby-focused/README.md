@@ -68,7 +68,7 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 * Standup
 * Thanks
-* We'll do more of these workshops, and meanwhile, come to [Hacker Hours](www.meetup.com/hackerhours) and [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
+* We'll do more of these workshops, and meanwhile, come to [Hacker Hours](http://www.meetup.com/hackerhours) and [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
 
 ## Guidelines
 
