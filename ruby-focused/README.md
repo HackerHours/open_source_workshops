@@ -157,4 +157,8 @@ Related links:
 
 Add your links to this list! Send pull requests to this file please. :)
 
-* `<link to issue / pull request>`
+* https://github.com/thoughtbot/paperclip/pull/2183
+* https://github.com/thoughtbot/paperclip/pull/2184
+* https://github.com/thoughtbot/paperclip/pull/2185
+* https://github.com/thoughtbot/suspenders/pull/756
+* https://github.com/doorkeeper-gem/doorkeeper/pull/826
