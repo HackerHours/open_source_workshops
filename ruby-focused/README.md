@@ -5,9 +5,9 @@
 
 ---
 
-## Saturday, April 30 event
+## Saturday, July 23rd
 
-http://www.meetup.com/hackerhours/events/230225164/
+http://www.meetup.com/hackerhours/events/232525765/
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -30,7 +30,6 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 * [Aidan Feldman](https://github.com/afeld)
 * [Julian Simioni](https://github.com/orangejulius)
-* [Katrina Owen](https://github.com/kytrinyx)
 * [Tute Costa](https://github.com/tute)
 
 ## Agenda
@@ -68,7 +67,9 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 * Standup
 * Thanks
-* We'll do more of these workshops, and meanwhile, come to [Hacker Hours](http://www.meetup.com/hackerhours) and [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
+* We'll do more of these workshops. Meanwhile, come to [Hacker
+  Hours](http://www.meetup.com/hackerhours) and [Ruby Project
+  Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
 
 ## Guidelines
 
@@ -96,23 +97,6 @@ http://www.meetup.com/hackerhours/events/230225164/
 
 ## Projects to work on
 
-* [Dolores Landingham bot](https://github.com/18F/dolores-landingham-bot)
-    * mentor: Aidan Feldman
-    * used for onboarding at [18F](https://18f.gsa.gov/), a team in the federal government
-    * [`#18f` channel](https://hackerhours.slack.com/messages/18f/)
-    * [issues](https://github.com/18F/dolores-landingham-bot/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-* [suspenders](https://github.com/thoughtbot/suspenders)
-  * mentor: Tute Costa
-  * [`#paperclip_suspenders` channel](https://hackerhours.slack.com/messages/paperclip_suspenders/)
-  * [issues](https://github.com/thoughtbot/suspenders/labels/help%20wanted)
-* [paperclip](https://github.com/thoughtbot/paperclip)
-  * mentor: Tute Costa
-  * [`#paperclip_suspenders` channel](https://hackerhours.slack.com/messages/paperclip_suspenders/)
-  * [`help-wanted` issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aopen+is%3Aissue+label%3ADocs)
-  * [documentation issues](https://github.com/thoughtbot/paperclip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-* [doorkeeper](https://github.com/doorkeeper-gem)
-  * mentor: Tute Costa
-  * [issues](https://github.com/doorkeeper-gem/doorkeeper/labels/help%20wanted)
 * [Exercism](http://exercism.io/) (download and solve practice problems in different languages)
   * mentor: Katrina Owen available on Slack
   * [`#exercism` channel](https://hackerhours.slack.com/messages/exercism/)
@@ -127,8 +111,6 @@ http://www.meetup.com/hackerhours/events/230225164/
   * [`#mustachifyme` channel](https://hackerhours.slack.com/messages/mustachifyme/)
   * good for a couple people who want a challenge
   * [_the_ issue](https://github.com/afeld/mustachio/issues/48)
-* [compare_by](https://github.com/afeld/compare_by)
-    * mentor: Aidan Feldman
 
 ## Setup
 
@@ -156,9 +138,3 @@ Related links:
 ## Contributions
 
 Add your links to this list! Send pull requests to this file please. :)
-
-* https://github.com/thoughtbot/paperclip/pull/2183
-* https://github.com/thoughtbot/paperclip/pull/2184
-* https://github.com/thoughtbot/paperclip/pull/2185
-* https://github.com/thoughtbot/suspenders/pull/756
-* https://github.com/doorkeeper-gem/doorkeeper/pull/826
