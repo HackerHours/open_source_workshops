@@ -106,11 +106,10 @@ http://www.meetup.com/hackerhours/events/232525765/
   * mentor: Julia Nguyen available on Slack
   * [`#ifme` channel](https://hackerhours.slack.com/messages/ifme/)
   * [issues](https://github.com/julianguyen/ifme/issues)
-* [mustachify.me](https://mustachify.me/)
-  * mentor: Aidan Feldman
-  * [`#mustachifyme` channel](https://hackerhours.slack.com/messages/mustachifyme/)
-  * good for a couple people who want a challenge
-  * [_the_ issue](https://github.com/afeld/mustachio/issues/48)
+* [Dolores Landingham bot](https://github.com/18F/dolores-landingham-bot) (onboarding bot for 18F, a team in the federal government)
+* [Jekyll Pages API](https://github.com/18F/jekyll_pages_api)
+* [Legalese](https://github.com/18F/legalese) (web scraper for legal documents)
+* [Markdown proofer](https://github.com/afeld/markdown_proofer) (validates Markdown files in your repository)
 
 ## Setup
 
