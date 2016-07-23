@@ -42,14 +42,15 @@ http://www.meetup.com/hackerhours/events/232525765/
     * you consider yourself comfortable with Git, GitHub, and Ruby
 1. Structure
     1. Pick a project, and sit at that table
-    1. set up the project in your computer
+    1. Set up the project in your computer
+    1. Improve the documentation, or write a guide, or improve the setup in some way
     1. pick an issue to work on (or ask which one to pick)
     1. send a pull request
         1. go over contribution guidelines
         1. improve the documentation, even in a small way
         1. if you have time, work on a feature or bug
     1. add a link to this document with your contributions (new issues count!)
-    1. At 2:30 pm, standup. We present what we worked on, mention difficulties we found, and what went well (~30 secs each).
+    1. At 6:15 pm, standup. We present what we worked on, mention difficulties we found, and what went well (~30 secs each).
 1. Introduce [projects](#projects-to-work-on)
 1. Go over [guidelines](#guidelines)
 1. Getting help
