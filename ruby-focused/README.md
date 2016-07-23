@@ -29,7 +29,9 @@ http://www.meetup.com/hackerhours/events/232525765/
 ## Mentors
 
 * [Aidan Feldman](https://github.com/afeld)
+* [Adrian Mugnolo](https://github.com/xymbol)
 * [Julian Simioni](https://github.com/orangejulius)
+* [Sebastian Armano](https://github.com/sebarmano)
 * [Tute Costa](https://github.com/tute)
 
 ## Agenda
