@@ -70,6 +70,7 @@ http://www.meetup.com/hackerhours/events/232525765/
 
 * Standup
 * Thanks
+* Collect list of contributions
 * We'll do more of these workshops. Meanwhile, come to [Hacker
   Hours](http://www.meetup.com/hackerhours) and [Ruby Project
   Night](http://www.meetup.com/Ruby-Project-Night-NYC) meetups!
@@ -139,4 +140,4 @@ Related links:
 
 ## Contributions
 
-Add your links to this list! Send pull requests to this file please. :)
+Create new Google Doc.
